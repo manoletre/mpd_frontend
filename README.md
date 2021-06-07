@@ -1,4 +1,4 @@
-# mpd_frontend
+# MEDICAITE Frontend
 
 A new Flutter project.
 
